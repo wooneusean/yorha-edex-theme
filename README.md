@@ -1,7 +1,7 @@
 # yorha-edex-theme
 ![Image](https://i.imgur.com/gWbUnp9.png)
 
-Its a pretty simple re-color theme. Added a vignette and the square grids for the background and thats pretty much it.
+Its a pretty simple re-color theme for [eDEX-UI](https://github.com/GitSquared/edex-ui). Added a vignette and the square grids for the background and thats pretty much it.
 
 # How to install
 
