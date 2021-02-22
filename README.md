@@ -1,5 +1,7 @@
-# yorha-edex-theme
-![Image](https://i.imgur.com/gWbUnp9.png)
+# YoRHa eDEX-UI Theme
+![No keyboard](https://i.imgur.com/gWbUnp9.png)
+![Keyboard](https://i.imgur.com/nVAPThW.png)
+![Full keyboard](https://i.imgur.com/UmaHpLC.png)
 
 Its a pretty simple re-color theme for [eDEX-UI](https://github.com/GitSquared/edex-ui). Added a vignette and the square grids for the background and thats pretty much it.
 
