@@ -1,7 +1,13 @@
 # YoRHa eDEX-UI Theme
+## v1 (Larger Grids)
 ![No keyboard](https://i.imgur.com/gWbUnp9.png)
 ![Keyboard](https://i.imgur.com/nVAPThW.png)
 ![Full keyboard](https://i.imgur.com/UmaHpLC.png)
+
+## v2 (Smaller Grids but more accurate to actual YoRHa UI)
+![No keyboard](https://i.imgur.com/6PzlnFD.png)
+![Keyboard](https://i.imgur.com/QwGZpTV.png)
+![Full keyboard](https://i.imgur.com/F43bgBh.png)
 
 Its a pretty simple re-color theme for [eDEX-UI](https://github.com/GitSquared/edex-ui). Added a vignette and the square grids for the background and thats pretty much it.
 
